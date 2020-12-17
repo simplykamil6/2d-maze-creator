@@ -8,7 +8,7 @@ This is a simple 2D maze creator using Depth First algorithm
 
 # Implementing
 
-- Import in your code (default exported)
+- Import in your code (default exported).  
 ![Implementing](resources/readme/images/implementing.png)
 
 - In the example it is imported as Maze
