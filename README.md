@@ -12,4 +12,4 @@ This is a simple 2D maze creator using Depth First algorithm
 ![Implementing](resources/readme/images/implementing.png)
 
 - In the example it is imported as Maze
-- Pass a shouldRender: bool prop -> once true it will start generating the maze
+- Pass a shouldCreate: bool prop -> once true it will start generating the maze
