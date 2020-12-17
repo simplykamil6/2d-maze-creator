@@ -2,7 +2,7 @@
 
 This is a simple 2D maze creator using Depth First algorithm
 
-# requirements
+# Requirements
 
 - react-p5 https://www.npmjs.com/package/react-p5
 
@@ -12,4 +12,4 @@ This is a simple 2D maze creator using Depth First algorithm
 ![Implementing](resources/readme/images/implementing.png)
 
 - In the example it is imported as Maze
-- Pass a shouldCreate: bool prop -> once true it will start generating the maze
+- Pass a shouldCreate: bool prop -> false just renders the grid -> once true it will start creating the maze
